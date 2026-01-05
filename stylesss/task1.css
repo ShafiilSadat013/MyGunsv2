@@ -1,0 +1,17 @@
+.searchBox{
+    display: flex;
+    margin: 10px;
+    gap: 1.25px;
+}
+.pic img{
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+}
+.info{
+    padding: 10px;
+}
+.cbox{
+    width: 200px;
+    height: 100px;
+}

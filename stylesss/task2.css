@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    color: blueviolet;
+    background-color: burlywood;
+}
+
+.mainC{
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+body{
+    background-color: antiquewhite;
+}
