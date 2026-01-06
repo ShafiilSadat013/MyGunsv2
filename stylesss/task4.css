@@ -125,6 +125,7 @@ body{
 }
 .card:hover{
     background-color: black;
+    transform: scale(1.05);
 }
 .name{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -157,3 +158,4 @@ body{
     display: flex;
     justify-content: center;
 }
+
